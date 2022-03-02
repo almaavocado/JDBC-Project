@@ -1,0 +1,29 @@
+--- 1. JAVA Persistance API Explained Persistance Operation ------
+https://www.youtube.com/watch?v=70cPmHd-D9c&t=402s
+
+--- 2. JAVA Persistance API Explained Introduction ------
+https://www.youtube.com/watch?v=LEgkdCBnjcM
+
+--- 3. JAVA Persistance API Basics ------
+https://www.youtube.com/watch?v=HsMBMym4lD4
+
+--- 4. Overloading Constructors -----
+https://stackoverflow.com/questions/27305950/jpa-foreign-key-that-is-also-a-primary-key-mapping
+
+---- 5.  Generating Keys ------
+https://thorben-janssen.com/jpa-generate-primary-keys/
+
+----- 6. Getting Started & Understanding Annotations ------
+https://dzone.com/refcardz/getting-started-with-jpa?chapter=2
+
+----- 7. Inheritance Strageties -----------
+https://thorben-janssen.com/complete-guide-inheritance-strategies-jpa-hibernate/#Single_Table
+
+------ 8. Slides About JPA ------------
+https://bbcsulb.desire2learn.com/d2l/le/content/600590/viewContent/7428987/View
+
+------ 9. WikiBooks --------------
+https://en.wikibooks.org/wiki/Java_Persistence
+
+------ 10. Enumerated ------------
+https://tomee.apache.org/examples-trunk/jpa-enumerated/
